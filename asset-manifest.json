@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Kronix-React/static/css/main.ffb847bf.css",
+    "main.js": "/Kronix-React/static/js/main.5c66aa2e.js",
+    "static/js/488.2aef74fe.chunk.js": "/Kronix-React/static/js/488.2aef74fe.chunk.js",
+    "static/media/Ellipse 3.png": "/Kronix-React/static/media/Ellipse 3.ebd88a68b01ae1c04ec7.png",
+    "static/media/Ader-square.jpg.png": "/Kronix-React/static/media/Ader-square.jpg.ae534b1ed83145ddf417.png",
+    "static/media/welcome-home-project-square.jpg.png": "/Kronix-React/static/media/welcome-home-project-square.jpg.a85a22ad898f20382a3b.png",
+    "static/media/oxfam-appeal-square.jpg.png": "/Kronix-React/static/media/oxfam-appeal-square.jpg.4570653fbcf2e3be3e76.png",
+    "static/media/cvgt-square.jpg.png": "/Kronix-React/static/media/cvgt-square.jpg.6c934647c4ca3c6d0b8a.png",
+    "static/media/map-square.jpg.png": "/Kronix-React/static/media/map-square.jpg.d05b29029032a5a31597.png",
+    "static/media/dfat-poster.jpg.png": "/Kronix-React/static/media/dfat-poster.jpg.2d0674c385405dca8e16.png",
+    "static/media/dropbottle-square.jpg.png": "/Kronix-React/static/media/dropbottle-square.jpg.5cdb16d9b109f3cd5cb0.png",
+    "static/media/key-insights.jpg.png": "/Kronix-React/static/media/key-insights.jpg.fb6433689bccdabf62f8.png",
+    "static/media/unwrapped-animated-thumbnail-poster.jpg.png": "/Kronix-React/static/media/unwrapped-animated-thumbnail-poster.jpg.9fe41b933d31fe6274d9.png",
+    "static/media/EDO_square_02.jpg.png": "/Kronix-React/static/media/EDO_square_02.jpg.b62d2843e4269563c593.png",
+    "static/media/RWH_square_04.jpg.png": "/Kronix-React/static/media/RWH_square_04.jpg.d6e2e7176e26eb7f1db7.png",
+    "static/media/TestimnoialPFP.png": "/Kronix-React/static/media/TestimnoialPFP.698ae407ceb331e217b2.png",
+    "static/media/Blog5.png": "/Kronix-React/static/media/Blog5.9baad2f8b3b73b7cf425.png",
+    "static/media/bluegreen-square.jpg.png": "/Kronix-React/static/media/bluegreen-square.jpg.6f1eea5804ba2c5eabb3.png",
+    "static/media/Blog6.png": "/Kronix-React/static/media/Blog6.d8c7b4ef145a1c1539d9.png",
+    "static/media/Blog2.png": "/Kronix-React/static/media/Blog2.843c4eb19cc226140bbb.png",
+    "static/media/Blog4.png": "/Kronix-React/static/media/Blog4.e2bf28200e54f051ef7d.png",
+    "static/media/Blog1.png": "/Kronix-React/static/media/Blog1.f0cc430e5fc5b293c1a3.png",
+    "static/media/Blog3.png": "/Kronix-React/static/media/Blog3.90a81ee460cd60b467f0.png",
+    "index.html": "/Kronix-React/index.html",
+    "main.ffb847bf.css.map": "/Kronix-React/static/css/main.ffb847bf.css.map",
+    "main.5c66aa2e.js.map": "/Kronix-React/static/js/main.5c66aa2e.js.map",
+    "488.2aef74fe.chunk.js.map": "/Kronix-React/static/js/488.2aef74fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb847bf.css",
+    "static/js/main.5c66aa2e.js"
+  ]
+}
