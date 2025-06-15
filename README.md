@@ -47,3 +47,9 @@ src/
 ├── styles/      # CSS files
 ├── assets/      # Images and media
 └── App.js       # Main application
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/Ghoosted-jpg">Ghoosted</a>
+</p>
